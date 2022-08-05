@@ -9,32 +9,3 @@ body {
     padding: 20px;
     background-image: url("img/gato_fondo.jpeg");
 }
-
-.titulo{
-    background-color: white;
-    padding: 10px;
-    border: 2px solid;
-}
-
-.cart{
-    margin-top: 100px;
-    text-align: center;
-    border: 2px solid;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    background-color: white;
-    background-repeat: no-repeat;
-    background-size: 2000px;
-}
-
-.cart h1{
-    padding-bottom: 20px;
-}
-
-.cart img {
-    border-radius: 2px solid gray;
-    width:200px;
-    height: 280px;
-    padding: 10px;
-}
-    
